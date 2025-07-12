@@ -1,3 +1,6 @@
+<< ---- JULY 11, 2025 CHANGELOG ----->>
+https://github.com/PedroWinterpacht/Updates/blob/main/update2
+
 << ---- July 10th, 2025 (07-10-2025) ----->>
 Updates to ==> Login Page:
 - Added the website logo
