@@ -1,17 +1,4 @@
-<< ---- JULY 11, 2025 CHANGELOG ----->>
-https://github.com/PedroWinterpacht/Updates/blob/main/update2
-
-<< ---- July 10th, 2025 (07-10-2025) ----->>
-Updates to ==> Login Page:
-- Added the website logo
-- Added redirect buttons for instagram & github
-- Added a redirect button for Github page with changelogs
-- Login + Sign Up
-
-In Progress: 
-- Backend to handle form validation and user sign up.
-
-<<======= END OF UPDATE FOR JULY 10TH, 2025 @11:28 AM ==========>>
+<Recreating Project From Scratch>
 
 
 
